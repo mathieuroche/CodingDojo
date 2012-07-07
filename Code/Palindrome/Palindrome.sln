@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPalindrome", "TestPalindrome\TestPalindrome.csproj", "{79A49176-13F2-437D-9ABB-2C753FF03012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{8EFB5733-FAD0-4CF9-B428-C72A557F9111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A49176-13F2-437D-9ABB-2C753FF03012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A49176-13F2-437D-9ABB-2C753FF03012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A49176-13F2-437D-9ABB-2C753FF03012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A49176-13F2-437D-9ABB-2C753FF03012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFB5733-FAD0-4CF9-B428-C72A557F9111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFB5733-FAD0-4CF9-B428-C72A557F9111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFB5733-FAD0-4CF9-B428-C72A557F9111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFB5733-FAD0-4CF9-B428-C72A557F9111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
